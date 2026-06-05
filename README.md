@@ -1,4 +1,4 @@
-# Wire Detection Project
+# Depth-Estimation-For-Autonomous-Drones
 
 This project implements a YOLO-based wire detection system. 
 
