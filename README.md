@@ -26,12 +26,15 @@ Instructions:
 
 ### Model Weights
 
-The pre-trained model weights (`best.pt` or similar `*.pt` files) are hosted using GitHub Releases.
+The pre-trained model weights are hosted on GitHub Releases.
 
-**Download link:** `[INSERT GITHUB RELEASE LINK HERE]`
+| File | Description | Download |
+|------|-------------|----------|
+| `best.pt` | Best performing model weights | [Download best.pt](https://github.com/jeyaraaman/Depth-Estimation-For-Autonomous-Drones/releases/download/v1.0/best.pt) |
+| `last.pt` | Final epoch model weights | [Download last.pt](https://github.com/jeyaraaman/Depth-Estimation-For-Autonomous-Drones/releases/download/v1.0/last.pt) |
 
 Instructions:
-- Download the required model weights (`.pt` files).
+- Download the required model weights (`.pt` file).
 - Place them in the root of this project.
 
 ## Running the Code
