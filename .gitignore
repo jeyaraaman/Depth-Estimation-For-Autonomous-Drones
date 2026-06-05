@@ -1,0 +1,29 @@
+# Virtual Environment
+yolo_gpu_env/
+
+# Datasets
+datasets/
+
+# Output and logs
+runs/
+output/
+tiled_output/
+tiled_results*/
+test/
+test_images/
+cam/
+thick_files/
+
+# Model weights
+*.pt
+
+# Media
+*.mp4
+*.png
+*.jpg
+*.mp3
+
+# IDE and Python cache
+.idea/
+__pycache__/
+*.pyc
